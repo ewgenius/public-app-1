@@ -1,1 +1,1 @@
-custom license
+# My Custom License
